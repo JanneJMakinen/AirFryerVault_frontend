@@ -5,8 +5,11 @@ const About = () => {
       <p>This is a demo application for testing purposes. It uses React, Node, Axios, Express and MongoDB Atlas. Pics were made with AI and icons are from Google Fonts.</p>
       <p>Source code can be found at:</p>
       <p>
-        <a href="https://www.github.com" target="_blank">
-          GitHub link here!
+        <a href="https://github.com/JanneJMakinen/AirFryerVault_backend" target="_blank">
+          AirFryerVaul backend
+        </a>
+        <a href="https://github.com/JanneJMakinen/AirFryerVault_frontend" target="_blank">
+          AirFryerVaul frontend
         </a>
       </p>
       <p>Running application can be found at: https://dashboard.render.com...</p>
