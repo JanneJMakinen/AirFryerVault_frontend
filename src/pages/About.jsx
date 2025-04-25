@@ -20,7 +20,7 @@ const About = () => {
         https://airfryervault-backend.onrender.com
         </a>
       </p>
-      <p>(Uses home made ping for keeping it alive, but due monthly running limitations might need restart.)</p>
+      <p>(Uses cron job for keeping this alive, but might need restart)</p>
     </div>
   )
 }
