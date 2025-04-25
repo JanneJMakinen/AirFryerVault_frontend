@@ -1,0 +1,26 @@
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  width: 100vw;         /* Set the width to 100% of the viewport width */
+  margin: 0 auto;      /* Center the app horizontally */
+}
+
+/* Ensure that the main content area takes up the full height of the app */
+.main-content {
+  display: flex;
+  flex: 1;
+  background-color: #f5f5f5;
+}
+
+/* Adjust the width of the content area (no specific width set here, it will take up available space) */
+.content-area {
+  flex: 1;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
