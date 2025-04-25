@@ -17,7 +17,7 @@ const About = () => {
       <p>This app running can be found at: </p>
       <p>
         <a href="https://airfryervault-backend.onrender.com/" target="_blank">
-          Render link here!
+        https://airfryervault-backend.onrender.com
         </a>
       </p>
       <p>(Uses home made ping for keeping it alive, but due monthly running limitations might need restart.)</p>
