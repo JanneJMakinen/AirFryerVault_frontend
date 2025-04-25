@@ -6,13 +6,13 @@ const About = () => {
       <p>Source code can be found at:</p>
       <p>
         <a href="https://github.com/JanneJMakinen/AirFryerVault_backend" target="_blank">
-          AirFryerVaul backend
+          https://github.com/JanneJMakinen/AirFryerVault_backend
         </a>
       </p>
       <p>
       <a href="https://github.com/JanneJMakinen/AirFryerVault_frontend" target="_blank">
-          AirFryerVaul frontend
-        </a>
+        https://github.com/JanneJMakinen/AirFryerVault_frontend
+      </a>
       </p>
       <p>This app running can be found at: </p>
       <p>
