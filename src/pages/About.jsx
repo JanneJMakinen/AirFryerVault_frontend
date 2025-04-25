@@ -8,7 +8,9 @@ const About = () => {
         <a href="https://github.com/JanneJMakinen/AirFryerVault_backend" target="_blank">
           AirFryerVaul backend
         </a>
-        <a href="https://github.com/JanneJMakinen/AirFryerVault_frontend" target="_blank">
+      </p>
+      <p>
+      <a href="https://github.com/JanneJMakinen/AirFryerVault_frontend" target="_blank">
           AirFryerVaul frontend
         </a>
       </p>
