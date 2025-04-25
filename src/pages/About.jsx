@@ -14,9 +14,9 @@ const About = () => {
           AirFryerVaul frontend
         </a>
       </p>
-      <p>Running application can be found at: https://dashboard.render.com...</p>
+      <p>This app running can be found at: </p>
       <p>
-        <a href="https://www.github.com" target="_blank">
+        <a href="https://airfryervault-backend.onrender.com/" target="_blank">
           Render link here!
         </a>
       </p>
