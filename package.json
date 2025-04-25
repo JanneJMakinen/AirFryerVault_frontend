@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "build:ui": "rm -rf dist && npm run build && cp -r dist ../airfryervault_backend",
     "deploy:ui": "git add . && git commit -m uibuild && git push -u origin main",
-    "deploy:full": "npm run build:ui && npm run deploy:ui && cd ../airfryervault_backend && git add . && git commit -m uibuild && git push -u origin main && cd ../airfryervault_backend"  },
+    "deploy:full": "npm run build:ui && npm run deploy:ui && cd ../airfryervault_backend && git add . && git commit -m bebuild && git push -u origin main && cd ../airfryervault_frontend"  },
   "dependencies": {
     "axios": "^1.8.4",
     "react": "^19.0.0",
