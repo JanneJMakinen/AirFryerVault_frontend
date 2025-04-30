@@ -9,6 +9,9 @@
 // search functionality
 // add more requests for testing
 
+// ADDED
+// added error handling -> catch()
+
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { useState, useEffect } from 'react'
 import recipeService from './services/recipeService'
@@ -35,6 +38,9 @@ const App = () => {
       .getAll()
       .then(initialRecipes => {
         setRecipes(initialRecipes)
+      })
+      .catch(error => {
+        console.log(error.response.data)
       })
   }, [])
 
